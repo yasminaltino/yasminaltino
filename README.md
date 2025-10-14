@@ -1,16 +1,45 @@
-## Hi there 👋
+# I'm Yasmin Altino! 
 
-<!--
-**yasminaltino/yasminaltino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science student at UFOP**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍💻 About me
+
+I consider myself an organized person, with a great interest in continuous learning and professional development. I am comfortable working in teams, have good communication skills, and I am always seeking to improve both my technical and interpersonal abilities.
+
+---
+
+## 🚀 Main skills
+
+- **Back-end**
+- **Python**
+- **Node.js**
+- **Docker**
+- **PostgreSQL**
+- **C++**
+- **Machine Learning**
+
+---
+
+## 🌱 Currently learning
+
+Always looking to evolve and dive into new technologies, especially in back-end, artificial intelligence, and infrastructure.
+
+---
+
+## 💼 Featured projects
+
+- [tp-eng2](https://github.com/octaviareika/tp-eng2) — Collaborative project developed during my undergraduate studies, covering software engineering practices and teamwork.
+
+---
+
+## 📫 Find me
+
+[![LinkedIn](https://img.shields.io/badge/-Yasmin%20Altino-blue?style=flat-square&logo=linkedin&link=https://www.linkedin.com/in/yasmin-altino/)](https://www.linkedin.com/in/yasmin-altino/)
+
+---
+
+
+
+<!-- If you want to add more projects, certificates, hobbies or other links, let me know! -->
