@@ -1,7 +1,7 @@
 ## 👋 Hi, I'm **Yasmin Altino**
 
 🎓 **Computer Science student** at **UFOP** (6th semester)  
-💡 Passionate about **back-end development**, **machine learning**, and **infrastructure**
+💡 Passionate about **back-end development**, ** AI & machine learning**, and **infrastructure**
 
 ---
 
