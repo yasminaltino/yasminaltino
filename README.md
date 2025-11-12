@@ -20,9 +20,11 @@ I thrive in team environments, communicate effectively, and continuously seek to
 
 ---
 
-### 📊 Languages Overview
+### 📊 Statistics
 
+![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminaltino&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminaltino&layout=compact)
+
 
 ---
 
