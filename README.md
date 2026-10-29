@@ -1,44 +1,44 @@
-## 👋 Hi, I'm **Yasmin Altino**
+# 👋 Hi, I'm Yasmin Altino
 
-🎓 **Computer Science student** at **UFOP** (7th semester)  
-💡 Passionate about **back-end development**, **AI & machine learning**, and **infrastructure**
+🎓 Computer Science student at [UFOP](https://ufop.br/) · Expected graduation: December 2026  
+🌱 Computational Agronomy Intern at Syngenta Digital  
+💡 Building AI-powered applications, back-end services, and data-driven solutions
 
----
+## 🧠 About Me
 
-### 🧠 About Me
+I'm a software developer with experience in back-end development, AI applications, and geospatial data systems.
 
-I’m an organized and curious learner who enjoys solving problems and improving systems.  
-I thrive in team environments, communicate effectively, and continuously seek to grow both my **technical** and **interpersonal** skills.
+At Syngenta Digital, I work on agricultural AI solutions using Python, GraphRAG, and AWS, collaborating daily with an international team. My work includes information retrieval pipelines, document processing, and tools for preparing AI evaluation datasets.
 
----
+Previously, I developed full-stack applications at Intellux and led the back-end team at TerraLAB/UFOP, building cloud-based geocoding services and optimizing data processing performance.
 
-### 🚀 Main Skills
+I enjoy solving problems, improving systems, and collaborating with people who share a passion for learning.
 
-- 🧩 **Back-end Development** — Python, Node.js, C++  
-- 🐳 **DevOps & Tools** — Docker, PostgreSQL  
-- 🤖 **Machine Learning** — model training, data processing, automation  
+## 🚀 Tech Stack
 
----
+- 🧩 **Back-end:** Python, FastAPI, Tornado, Node.js, NestJS, SQLAlchemy, Celery & Redis
+- 🤖 **AI & Data:** GraphRAG, embeddings, Docling, PyTorch, scikit-learn, pandas & NumPy
+- ☁️ **Cloud:** AWS Bedrock, Neptune, S3 & Lambda
+- 🗄️ **Databases:** PostgreSQL, PostGIS, MySQL & Gremlin
+- 💻 **Front-end:** TypeScript, React & Next.js
+- 🛠️ **Tools & Quality:** Docker, Git, pytest & CI/CD
 
-### 📊 Statistics
+## 🌟 Experience Highlights
 
-![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminaltino&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminaltino&layout=compact)
+- 🌾 Developing GraphRAG pipelines and AI evaluation tools for the agricultural domain.
+- 🌍 Building geospatial APIs, with geocoding processing time reduced by over 30%.
+- 🤝 Leading back-end development and collaborating across international teams.
+- 🔗 Creating REST APIs and integrating external services.
 
+## 📊 GitHub Stats
 
----
+![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminaltino&show_icons=true&theme=tokyonight&hide_border=true)
 
-### 🌟 Featured Projects
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminaltino&layout=compact&theme=tokyonight&hide_border=true)
 
-- [**tp-eng2**](https://github.com/octaviareika/tp-eng2)  
-  Collaborative project developed during my undergraduate studies, applying **software engineering practices** and **team collaboration**.
+## 🌐 Find Me
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-altino/)
 
-### 🌐 Find Me
-
-[![LinkedIn](https://img.shields.io/badge/-Yasmin%20Altino-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yasmin-altino/)
-
----
-
-💬 *Always seeking to evolve and dive deeper into new technologies.*
+💬 Portuguese native speaker · Advanced English  
+✨ Always learning, building, and exploring new technologies.
