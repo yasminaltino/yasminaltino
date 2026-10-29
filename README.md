@@ -30,12 +30,6 @@ I enjoy solving problems, improving systems, and collaborating with people who s
 - 🤝 Leading back-end development and collaborating across international teams.
 - 🔗 Creating REST APIs and integrating external services.
 
-## 📊 GitHub Stats
-
-![Yasmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasminaltino&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yasminaltino&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 🌐 Find Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasmin-altino/)
